@@ -50,7 +50,7 @@ public Object getItem(int i ){
 
 
     rows.setText(colors[i]);
-    rows.setBackgroundColor(Color.parseColor(colors[i]));
+    
 
     return rows;
 }
